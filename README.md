@@ -5,7 +5,7 @@
 - [💻 Web Platform](https://offsubmit.vercel.app/)   
 <!-- - [📱   Mobile App](https://github.com/BakaOtaku/Offsubmit/releases/) -->
 
-- [👨🏻‍💼 Presentation File](./Presentation.pdf)
+<!-- - [👨🏻‍💼 Presentation File](./Presentation.pdf) -->
 
 ## The problem:
 

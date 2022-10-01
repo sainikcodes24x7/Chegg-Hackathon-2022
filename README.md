@@ -85,8 +85,7 @@ Now the professor can download the answer sheets and do the evaluation.
 ## Team
 
 - [ 👨🏻‍💻 Saptarshi Pani]
-- [ 👨🏻‍🎓 Uttaran Nanak]
 - [ 🌊 Sainik Khaddar]
-- [👨🏻‍🎓 Arindam Saha Raj Modak]
+
 
 <p align="center"> Made with ❤️ and 💻</p>
